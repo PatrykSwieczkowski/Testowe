@@ -1,0 +1,27 @@
+body {background-color: gray;}
+	div{background-color: red;
+	    font-family: bold;
+		font-style: italic;
+		margin-left:2px;
+		padding-bottom:2px;
+		float:left;
+	}
+
+table {
+  
+    width: 50%;
+ border:dotted;
+}
+#jeden{background-color:red;}
+
+.dwa{background-color:cyan;}
+
+.trzy{background-color:pink;}
+
+.cztery{background-color:lime;}
+
+ol{list-style-type:upper-roman;}
+
+ul{list-style-type:upper-roman;}
+.submit{background-color:#0066ff;
+border:dotted;}
